@@ -1,4 +1,3 @@
-setwd("C:/Users/xrist/OneDrive - National and Kapodistrian University of Athens/Clinical Trials/Assignment")
 set.seed(123)
 OC_3plus3= function(p, doses=NULL){
   if (is.null(doses)) {
